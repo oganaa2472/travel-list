@@ -17,4 +17,4 @@ This project demonstrates **state management in React using only `useState`**.
 
 ## Getting Started
 
-<img src="./travel_list.png.png" alt="home" width="300"/>
+<img src="./travel_list.png" alt="home" width="300"/>
