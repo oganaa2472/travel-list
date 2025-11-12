@@ -15,6 +15,15 @@ This project demonstrates **state management in React using only `useState`**.
 - useState for state management
 - CSS (inline styles for simplicity)
 
-## Getting Started
+## Live Demo
+
+Check it out here: [Travel List App](https://travel-list-mng.netlify.app/)
 
 <img src="./travel_list.png" alt="home" width="300"/>
+
+## Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/oganaa2472/travel-list
+cd travel-list
