@@ -16,7 +16,5 @@ This project demonstrates **state management in React using only `useState`**.
 - CSS (inline styles for simplicity)
 
 ## Getting Started
-```markdown
-![Home screen](/travel_list.png)
-```
-<img src="./screen.png" alt="home" width="300"/>
+
+<img src="./travel_list.png.png" alt="home" width="300"/>
